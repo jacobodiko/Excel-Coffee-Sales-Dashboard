@@ -73,11 +73,3 @@ In this project, I built a fully functional **Coffee Sales Dashboard** that allo
 - **Region-wise Sales Breakdown**: Visual summary of sales data by region, allowing for regional performance analysis.
 - **Agent Performance**: A dynamic chart showcasing the sales performance of individual sales representatives.
   
----
-
-## How to Use This Project
-
-To explore this Excel dashboard, download the project files from this repository and open them in Excel. You can interact with the slicers, pivot tables, and charts to view different aspects of the sales data. The dashboard is designed to be dynamic, so any changes to the underlying data will automatically reflect in the visualizations.
-
-For more projects, visit my [GitHub profile](https://github.com/jacobodiko).
-
